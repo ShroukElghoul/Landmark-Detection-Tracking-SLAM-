@@ -8,10 +8,18 @@ Below is an example of a 2D robot world with landmarks (purple x's) and the robo
 
 ## Project Structure
 
-The project is broken up into three Python notebooks; the first two are for exploration of provided code.
+The project is broken up into three Python notebooks and a robot class; the first two are for exploration of provided code.
 
 Notebook 1 : Robot Moving and Sensing
 
 Notebook 2 : Omega and Xi, Constraints
 
 Notebook 3 : Landmark Detection and Tracking
+
+robot_class.py
+
+## Local Environment Installation Guide
+
+$ git clone https://github.com/ShroukElghoul/Landmark-Detection-Tracking-SLAM-.git
+
+$ sudo pip3 install -r requirements.txt
