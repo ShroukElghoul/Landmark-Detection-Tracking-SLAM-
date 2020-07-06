@@ -23,3 +23,11 @@ robot_class.py
 $ git clone https://github.com/ShroukElghoul/Landmark-Detection-Tracking-SLAM-.git
 
 $ sudo pip3 install -r requirements.txt
+
+## Example Results
+1) Robot
+Expected: [x=66.22893 y=83.21661]
+Predicted: [x=67.84919591053846, y=83.65808994916986]
+
+2)
+
